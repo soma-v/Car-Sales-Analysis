@@ -20,8 +20,10 @@ Car Sale
 The Dataset contains the list of cars bought in a particular year and month. The data is organized.
 
 URL: 
+
 Cleaned dataset : 
 https://docs.google.com/spreadsheets/d/1T2QLzYD3QpBQdQbdaVOUEbJ-cFhJtmKQOMgFlp9chTE/edit?usp=sharing
 
 #### Design and Methodology
+![image](https://user-images.githubusercontent.com/77520623/170837939-cf8fb76a-78ee-4cdb-ad59-77854bb55ac1.png)
 
