@@ -10,8 +10,11 @@ To understand and insights about the consumer choice, trend in sale and most sou
 #### Solution
          
 Analyze the dataset and design the query.
+
 For each query, choose appropriate mark and channels.
-Implement the visual encoding using python
+
+Implement the visual encoding using python.
+
 Create a dashboard using all visualizations.
 
 #### Dataset
