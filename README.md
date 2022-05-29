@@ -1,4 +1,7 @@
 # Car Sales Analysis
+![image](https://user-images.githubusercontent.com/77520623/170863626-cfd27306-0b69-4360-ac29-082d9337a6ce.png)
+
+
 #### Problem Description
 
 We all know that more than thousands of cars are sold each day and even the reports justify this. In 2020, over 17 million units of two-wheelers were sold domestically across the south Asian country. To understand the need of the customer and trend we can't go through each and every record here data will be a key enabler to allow automotive players to make informed decisions about consumer choice, popular specs combination, appropriate launch time, popular brands and revenue earned. 
